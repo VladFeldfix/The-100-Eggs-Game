@@ -1,0 +1,1 @@
+pyinstaller -i favicon.ico --onefile The-100-Eggs-Game.py
